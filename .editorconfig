@@ -10,21 +10,25 @@ insert_final_newline = true
 charset = utf-8
 
 # Python
+# Reference is https://pep8-ja.readthedocs.io/ja/latest/
 [*.py]
 indent_style = space
 indent_size = 4
 
 # PHP
+# Reference is http://www.php-fig.org/psr/psr-2/
 [*.py]
 indent_style = space
 indent_size = 4
 
 # Ruby
+# Reference is https://github.com/cookpad/styleguide/blob/master/ruby.ja.md
 [*.{rb, erb}]
 indent_style = space
 indent_size = 2
 
 # JavaScript
+# Reference is https://mitsuruog.github.io/javascript-style-guide/
 [*.{js, json}]
 indent_style = space
 indent_size = 2
