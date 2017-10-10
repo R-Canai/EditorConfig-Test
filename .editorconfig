@@ -2,12 +2,14 @@
 
 # top-most EditorConfig file
 root = true
-
 # Common
 [*]
 end_of_line = lf
 insert_final_newline = true
 charset = utf-8
+trim_trailing_whitespace = true
+max_line_length = null
+
 
 # Python
 # Reference is https://pep8-ja.readthedocs.io/ja/latest/
