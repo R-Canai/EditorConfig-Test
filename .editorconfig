@@ -29,11 +29,17 @@ indent_size = 4
 indent_style = space
 indent_size = 2
 
-# JavaScript
+# JavaScript / Vue
 # Reference is https://mitsuruog.github.io/javascript-style-guide/
-[*.{js, json}]
+[*.{js, json, vue}]
 indent_style = space
 indent_size = 2
+
+# TypeScript
+# Reference is https://github.com/Microsoft/TypeScript/wiki/Coding-guidelines
+[*.{ts}]
+indent_style = space
+indent_size = 4
 
 # HTML 
 [*.{html, htm}]
