@@ -31,13 +31,13 @@ indent_size = 2
 
 # JavaScript / Vue
 # Reference is https://mitsuruog.github.io/javascript-style-guide/
-[*.{js, json, vue}]
+[*.{js, json, ejs, vue}]
 indent_style = space
 indent_size = 2
 
 # TypeScript
 # Reference is https://github.com/Microsoft/TypeScript/wiki/Coding-guidelines
-[*.{ts}]
+[*.ts]
 indent_style = space
 indent_size = 4
 
