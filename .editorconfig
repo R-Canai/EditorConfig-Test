@@ -25,13 +25,13 @@ indent_size = 4
 
 # Ruby
 # Reference is https://github.com/cookpad/styleguide/blob/master/ruby.ja.md
-[*.{rb, erb}]
+[*.{rb,erb}]
 indent_style = space
 indent_size = 2
 
 # JavaScript / Vue
 # Reference is https://mitsuruog.github.io/javascript-style-guide/
-[*.{js, json, ejs, vue}]
+[*.{js,json,ejs,vue}]
 indent_style = space
 indent_size = 2
 
@@ -42,11 +42,11 @@ indent_style = space
 indent_size = 4
 
 # HTML 
-[*.{html, htm}]
+[*.{html,htm}]
 indent_style = space
 indent_size = 2
 
 # CSS
-[*.{css, scss, sass, less}]
+[*.{css,scss,sass}]
 indent_style = space
 indent_size = 2
